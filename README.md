@@ -1,4 +1,5 @@
 **FILE INTEGRITY CHECKER**
+
 A lightweight Python-based tool to monitor file integrity using cryptographic hashes.
 Detects unauthorized file modifications, additions, and deletions by comparing SHA-256 checksums over time.
 
